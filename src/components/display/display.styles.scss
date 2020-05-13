@@ -1,0 +1,25 @@
+.display{
+    margin-top: 200px;
+}
+
+h2{
+    margin-top: -30px;
+    color: #2f3235;font-family: 'Pridi', serif;font-size: 30px; font-weight: 200;
+    text-align: center;
+}
+.name{
+    margin-top: -30px;
+    color: #2f3235;font-family: 'Pridi', serif;font-size: 30px; font-weight: 200;
+    text-align: center;
+    opacity: 08;
+}
+.reset{
+    background-color:rgba(236, 52, 52,.5);
+    font-size: large;
+    margin-left: 45%;
+    border: 1px solid rgba(236, 52, 52,.5);
+ 
+    &.reset:hover{
+        background-color:rgba(236, 52, 52,1);
+    }
+}
